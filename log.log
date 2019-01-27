@@ -2,3 +2,11 @@
 2019-01-26 23:16:40 INFO  Server:28 - TIMEOUT_SECONDS = 60
 2019-01-26 23:16:40 INFO  Server:28 - PORT = 2938
 2019-01-26 23:16:40 INFO  Server:28 - Started socket server on port 2938
+2019-01-26 23:23:29 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-26 23:23:29 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-26 23:23:29 INFO  Server:28 - PORT = 2938
+2019-01-26 23:23:30 INFO  Server:28 - Started socket server on port 2938
+2019-01-26 23:25:20 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-26 23:25:20 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-26 23:25:20 INFO  Server:28 - PORT = 2938
+2019-01-26 23:25:20 INFO  Server:28 - Started socket server on port 2938
