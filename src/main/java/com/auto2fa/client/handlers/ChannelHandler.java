@@ -33,7 +33,7 @@ public class ChannelHandler extends ChannelInboundHandlerAdapter {
 			// For now we'll just implement 2FA here
 			String authKey = "temp";
 			if(received.equals("mike@test.io"))
-				authKey = AuthUtil.generateCurrentNumberString("FY5OI6M5VCFPFCDA7DKZGPBDTZ6DZQTD"); // This is temporary!
+				authKey = AuthUtil.generateCurrentNumberString("JAOD4ON4JZGCGI4QMLZUMZPUHV6EETTI"); // This is temporary!
 			sendString(ctx, authKey);
 		} else {
 			log.channelLog(ctx, "didn't receive a valid e-mail. Sending back INVALID");
@@ -56,7 +56,7 @@ public class ChannelHandler extends ChannelInboundHandlerAdapter {
 	}
 
 	public ChannelFuture sendString(ChannelHandlerContext ctx, String message) {
-		log.info("Sending" + message);
+		log.info("Sending " + message);
 		return ctx.write(Unpooled.copiedBuffer(message, CharsetUtil.UTF_8));
 	}
 
