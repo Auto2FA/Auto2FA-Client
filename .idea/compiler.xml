@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="auto2fa-client" target="1.5" />
+      <module name="auto2fa-client" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>

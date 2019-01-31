@@ -2,6 +2,7 @@ package com.auto2fa.client;
 
 import com.auto2fa.client.handlers.ChannelHandler;
 import com.auto2fa.client.log.NetLogger;
+import com.auto2fa.client.util.AuthUtil;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
@@ -44,8 +45,8 @@ public class Server {
 	private HashSet<String> authorized;
 
 	public Server() throws InterruptedException {
-		 authorized = new HashSet();
-
+		authorized = new HashSet();
+		authorized.add("127.0.0.1"); // usually we'd get our authorized list from bluetooth
 		EventLoopGroup group = new NioEventLoopGroup();
 
 		try{

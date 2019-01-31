@@ -10,3 +10,389 @@
 2019-01-26 23:25:20 INFO  Server:28 - TIMEOUT_SECONDS = 60
 2019-01-26 23:25:20 INFO  Server:28 - PORT = 2938
 2019-01-26 23:25:20 INFO  Server:28 - Started socket server on port 2938
+2019-01-27 08:40:35 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 08:40:35 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 08:40:35 INFO  Server:28 - PORT = 2938
+2019-01-27 09:10:21 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 09:10:22 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 09:10:22 INFO  Server:28 - PORT = 1337
+2019-01-27 09:10:22 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 11:19:46 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 11:19:46 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 11:19:46 INFO  Server:28 - PORT = 1339
+2019-01-27 11:19:47 INFO  Server:28 - Started socket server on port 1339
+2019-01-27 11:19:56 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 11:19:57 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 11:19:57 INFO  Server:28 - PORT = 1337
+2019-01-27 11:19:57 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 11:20:07 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:20:07 INFO  Server:24 - [127.0.0.1] was not authorized
+2019-01-27 11:20:07 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:20:07 INFO  Server:24 - [127.0.0.1] was not authorized
+2019-01-27 11:20:48 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 11:20:48 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 11:20:48 INFO  Server:28 - PORT = 1337
+2019-01-27 11:20:49 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 11:20:59 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:20:59 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:20:59 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:21:00 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:21:00 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:21:00 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:21:52 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 11:21:53 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 11:21:53 INFO  Server:28 - PORT = 1337
+2019-01-27 11:21:53 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 11:22:06 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:22:06 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:22:06 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:22:07 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:22:07 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:22:07 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:25:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:25:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:25:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:28:08 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:28:08 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:28:08 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:31:14 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:31:14 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:31:14 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:31:55 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:31:55 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:31:55 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:32:41 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:32:41 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:32:41 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:33:27 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:33:27 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:33:27 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:33:56 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 11:33:57 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 11:33:57 INFO  Server:28 - PORT = 1337
+2019-01-27 11:33:57 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 11:34:07 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:34:07 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:34:07 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:36:14 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:36:14 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:36:14 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:38:42 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:38:42 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:38:42 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:39:38 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:39:38 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:39:38 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:42:14 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:42:14 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:42:14 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:45:09 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:45:09 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:45:09 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:45:36 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:45:36 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:45:36 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:45:36 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:45:36 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:45:36 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:46:15 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:46:15 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:46:15 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:47:52 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:47:52 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:47:52 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:49:13 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:49:13 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:49:13 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:49:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:49:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:49:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:50:00 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:50:00 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:50:00 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 11:53:36 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 11:53:36 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 11:53:36 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:22:19 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-27 13:22:19 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-27 13:22:19 INFO  Server:28 - PORT = 1337
+2019-01-27 13:22:20 INFO  Server:28 - Started socket server on port 1337
+2019-01-27 13:23:35 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:23:35 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:23:35 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:23:35 INFO  ChannelHandler:28 - Sending607842
+2019-01-27 13:24:05 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:24:05 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:24:05 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: michealspellekoe@gmail.com
+2019-01-27 13:24:05 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:24:22 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:24:22 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:24:22 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: michealspellekoe@gmail.com
+2019-01-27 13:24:22 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:24:23 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:24:23 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:24:23 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: tfkeofkoe@gmail.com
+2019-01-27 13:24:23 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:29:11 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:29:11 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:29:11 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fjdfjdk@gmail.com
+2019-01-27 13:29:11 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:29:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:29:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:29:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fjdfjdk@gmail.com
+2019-01-27 13:29:29 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:29:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:29:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:29:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: jfjdk@gmail.com
+2019-01-27 13:29:29 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:30:32 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:30:32 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:30:32 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fekfek@gmail.com
+2019-01-27 13:30:32 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:30:44 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:30:44 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:30:44 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fekfek@gmail.com
+2019-01-27 13:30:44 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:30:45 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:30:45 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:30:45 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:30:45 INFO  ChannelHandler:28 - Sending145845
+2019-01-27 13:33:27 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:33:27 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:33:27 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fekfek@gmail.com
+2019-01-27 13:33:27 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:33:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:33:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:33:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:33:29 INFO  ChannelHandler:28 - Sending292759
+2019-01-27 13:37:39 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:37:39 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:37:39 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: fekfek@gmail.com
+2019-01-27 13:37:39 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:37:43 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:37:43 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:37:43 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 13:37:43 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:40:52 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:40:52 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:40:52 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:40:52 INFO  ChannelHandler:28 - Sending902846
+2019-01-27 13:43:27 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:43:27 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:43:27 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 13:43:27 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:43:30 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:43:30 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:43:30 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:43:30 INFO  ChannelHandler:28 - Sending262590
+2019-01-27 13:50:36 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:50:36 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:50:36 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 13:50:36 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:50:40 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:50:40 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:50:40 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:50:40 INFO  ChannelHandler:28 - Sending260346
+2019-01-27 13:54:04 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:54:04 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:54:04 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 13:54:04 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:54:06 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:54:06 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:54:06 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:54:06 INFO  ChannelHandler:28 - Sending860534
+2019-01-27 13:59:08 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:59:08 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:59:08 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 13:59:08 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 13:59:11 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 13:59:11 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 13:59:11 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 13:59:11 INFO  ChannelHandler:28 - Sending068365
+2019-01-27 14:02:10 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:02:10 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:02:10 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:02:10 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:02:13 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:02:13 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:02:13 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:02:13 INFO  ChannelHandler:28 - Sending364663
+2019-01-27 14:07:55 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:07:55 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:07:55 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:07:55 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:07:58 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:07:58 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:07:58 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:07:58 INFO  ChannelHandler:28 - Sending881295
+2019-01-27 14:09:37 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:09:37 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:09:37 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:09:37 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:09:42 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:09:42 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:09:42 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:09:42 INFO  ChannelHandler:28 - Sending809390
+2019-01-27 14:14:30 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:14:30 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:14:30 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:14:30 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:14:32 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:14:32 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:14:32 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:14:32 INFO  ChannelHandler:28 - Sending150144
+2019-01-27 14:18:22 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:18:22 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:18:22 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:18:22 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:18:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:18:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:18:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:18:29 INFO  ChannelHandler:28 - Sending366239
+2019-01-27 14:21:31 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:21:31 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:21:31 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:21:31 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:21:36 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:21:36 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:21:36 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:21:36 INFO  ChannelHandler:28 - Sending400382
+2019-01-27 14:41:02 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:41:02 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:41:02 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@mike.io
+2019-01-27 14:41:02 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-27 14:41:29 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:41:29 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:41:29 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:41:29 INFO  ChannelHandler:28 - Sending796115
+2019-01-27 14:48:34 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:48:34 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:48:34 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:48:34 INFO  ChannelHandler:28 - Sending004474
+2019-01-27 14:55:14 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 14:55:14 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 14:55:14 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 14:55:14 INFO  ChannelHandler:28 - Sending383083
+2019-01-27 15:25:48 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 15:25:48 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 15:25:48 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 15:25:48 INFO  ChannelHandler:28 - Sending239656
+2019-01-27 15:35:04 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-27 15:35:04 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-27 15:35:04 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-27 15:35:04 INFO  ChannelHandler:28 - Sending883276
+2019-01-28 11:58:09 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-28 11:58:10 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-28 11:58:10 INFO  Server:28 - PORT = 1337
+2019-01-28 11:58:12 INFO  Server:28 - Started socket server on port 1337
+2019-01-28 11:58:40 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-28 11:58:40 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-28 11:58:40 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: m
+2019-01-28 11:58:40 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-28 11:58:41 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-28 11:58:41 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-28 11:58:41 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-28 11:58:41 INFO  ChannelHandler:28 - Sending695188
+2019-01-28 11:58:59 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-28 11:58:59 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-28 11:58:59 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: m
+2019-01-28 11:58:59 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-28 11:59:00 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-28 11:59:00 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-28 11:59:00 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: kale@test.io
+2019-01-28 11:59:00 INFO  ChannelHandler:28 - Sendingtemp
+2019-01-31 14:08:25 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-31 14:08:26 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-31 14:08:26 INFO  Server:28 - PORT = 1337
+2019-01-31 14:08:26 INFO  Server:28 - Started socket server on port 1337
+2019-01-31 14:08:32 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:08:32 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:08:32 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:08:32 INFO  ChannelHandler:28 - Sending662677
+2019-01-31 14:08:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:08:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:08:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:08:47 INFO  ChannelHandler:28 - Sending662677
+2019-01-31 14:08:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:08:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:08:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: test
+2019-01-31 14:08:47 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:10:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:10:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:10:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: test
+2019-01-31 14:10:47 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:12:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:12:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:12:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: test
+2019-01-31 14:12:47 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:14:47 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:14:47 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:14:47 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: test
+2019-01-31 14:14:47 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:20:31 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:20:31 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:20:31 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:20:31 INFO  ChannelHandler:28 - Sending109764
+2019-01-31 14:20:31 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:20:31 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:20:31 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: f
+2019-01-31 14:20:31 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:21:28 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:21:28 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:21:28 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:21:28 INFO  ChannelHandler:28 - Sending799629
+2019-01-31 14:21:28 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:21:28 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:21:28 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: dsds
+2019-01-31 14:21:28 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:22:43 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:22:43 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:22:43 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: sdsds
+2019-01-31 14:22:43 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:24:49 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:24:49 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:24:49 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: ds
+2019-01-31 14:24:49 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:26:49 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:26:49 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:26:49 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: ds
+2019-01-31 14:26:49 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:27:12 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:27:12 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:27:12 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: ds
+2019-01-31 14:27:12 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:29:12 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:29:12 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:29:12 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: ds
+2019-01-31 14:29:12 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:29:30 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:29:30 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:29:30 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: dw
+2019-01-31 14:29:30 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail
+2019-01-31 14:30:48 INFO  Server:28 - Checking config.properties for the port, timeout, and log folder
+2019-01-31 14:30:49 INFO  Server:28 - TIMEOUT_SECONDS = 60
+2019-01-31 14:30:49 INFO  Server:28 - PORT = 1337
+2019-01-31 14:30:49 INFO  Server:28 - Started socket server on port 1337
+2019-01-31 14:31:01 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:31:01 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:31:01 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: dw
+2019-01-31 14:31:01 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail. Sending back INVALID
+2019-01-31 14:31:01 INFO  ChannelHandler:28 - SendingINVALID
+2019-01-31 14:31:09 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:31:09 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:31:09 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:31:09 INFO  ChannelHandler:28 - Sending664591
+2019-01-31 14:34:17 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:34:17 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:34:17 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: dw
+2019-01-31 14:34:17 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail. Sending back INVALID
+2019-01-31 14:34:17 INFO  ChannelHandler:28 - SendingINVALID
+2019-01-31 14:42:31 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:42:31 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:42:31 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: test
+2019-01-31 14:42:31 INFO  ChannelHandler:24 - [127.0.0.1] didn't receive a valid e-mail. Sending back INVALID
+2019-01-31 14:42:31 INFO  ChannelHandler:28 - SendingINVALID
+2019-01-31 14:42:37 INFO  Server:24 - [127.0.0.1] has connected!
+2019-01-31 14:42:37 INFO  Server:28 - [127.0.0.1] authenticated
+2019-01-31 14:42:37 INFO  ChannelHandler:24 - [127.0.0.1] Channel received: mike@test.io
+2019-01-31 14:42:37 INFO  ChannelHandler:28 - Sending204590

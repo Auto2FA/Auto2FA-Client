@@ -2,6 +2,7 @@ package com.auto2fa.client.handlers;
 
 import com.auto2fa.client.User;
 import com.auto2fa.client.log.NetLogger;
+import com.auto2fa.client.util.AuthUtil;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFuture;
@@ -29,10 +30,14 @@ public class ChannelHandler extends ChannelInboundHandlerAdapter {
 		// Website server should just be sending us the e-mail and we'll send back the 2FA code if we have that e-mail
 		if(received.matches("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$")) { // matches an e-mail
 			// TODO: SEND BLUETOOTH
+			// For now we'll just implement 2FA here
 			String authKey = "temp";
+			if(received.equals("mike@test.io"))
+				authKey = AuthUtil.generateCurrentNumberString("FY5OI6M5VCFPFCDA7DKZGPBDTZ6DZQTD"); // This is temporary!
 			sendString(ctx, authKey);
 		} else {
-			log.channelLog(ctx, "didn't receive a valid e-mail");
+			log.channelLog(ctx, "didn't receive a valid e-mail. Sending back INVALID");
+			sendString(ctx, "INVALID");
 			closeConnection(ctx);
 		}
 
@@ -51,6 +56,7 @@ public class ChannelHandler extends ChannelInboundHandlerAdapter {
 	}
 
 	public ChannelFuture sendString(ChannelHandlerContext ctx, String message) {
+		log.info("Sending" + message);
 		return ctx.write(Unpooled.copiedBuffer(message, CharsetUtil.UTF_8));
 	}
 
